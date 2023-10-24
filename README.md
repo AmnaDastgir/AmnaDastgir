@@ -5,6 +5,9 @@
 <img align="right" alt="coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 - 🌱 I’m currently learning **C#, .NET, AI, Cyber Security, front- and backend frameworks**
+<h4>SCHOOL 📚:</h4>
+Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and cloud computing, Operating Systems, Software Testing, Blockchain
+
 
 - 📫 How to reach me **desig4344@gmail.com**
 
